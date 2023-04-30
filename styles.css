@@ -1,0 +1,197 @@
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    
+    }
+    
+    .container-fluid{
+        padding: 3% 5%;
+      }
+
+
+      .title-image{
+        width: 65%;
+    
+      }
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+  }
+   
+  .s{
+    color: #20232a;
+  }
+
+  .navbar {
+      padding: 0 0 4.5rem;
+  }
+  .nav-item{
+    
+
+    padding: 0 18px;
+  }
+
+.nav-link 
+{
+  color: yellow;
+  font-size: 1.2rem;
+   font-family: "Montserrat-Light";
+   
+   
+   
+ }
+ .brand{
+    width: 7%;
+ }
+
+ #problems{
+background-color: aquamarine;
+    padding: 7% 15%
+   
+    }
+    .bs{
+        text-align: center;
+    }
+
+
+    .problems-box{
+        text-align: center;
+        padding: 5%;
+        }
+    
+        #features{
+            background-color: white;
+                padding: 7% 10%
+               
+                }
+                .bs{
+                    text-align: center;
+                    border: #265ac8 dotted;
+                }
+            
+            
+                .features-box{
+                    text-align: center;
+                    padding: 5%;
+                    }
+
+
+                #bonuss{
+                    background-color: #E49393;
+                }    
+
+                    .bow {
+                     
+                        display: flex;
+                        
+                        flex-wrap: wrap;
+                        margin-right: -15px;
+                        margin-left: -15px;  
+                      }       
+
+                     .email{
+                        margin-left: 28%;
+                     }
+
+                    .bonuss {
+                        padding: 30px 0 0px;
+                        margin: 0 0 20px;}
+
+                    .b_card {
+                        border: 3px #265ac8 dotted;
+                        border-radius: 10px;
+                        padding: 20px;
+                        margin-top: 20px;
+                        margin-bottom: 35px;}
+
+                        
+
+
+
+                            .head_get h4 {
+                                
+                                padding: 15px 30px;
+                                text-transform: uppercase;
+                                color: #fff;
+                                font-size: 28px;
+                                font-weight: 700;
+                                background: #265ac8;
+                                display: block;
+                                width: 100%;
+                                margin-top: 0;
+                                text-align: center;
+                                border-radius: 6px;
+                            }
+
+
+
+                            .me{
+                                   text-align: center;
+
+                            }
+
+                           
+  
+                  
+ #btn{
+     background-color: #265ac8;
+                                            
+                                         }
+                    
+                                         
+#notice{
+    background-color: #F9F5EB;
+    padding: 7% 10%;
+}
+.app{
+    font-family: "Ubuntu";
+    font-size: 20px;
+    color: #20232a;
+}
+
+
+.notice-box {
+    text-align: center;
+    padding: 5%;
+}
+footer {
+    text-align: center;
+    
+
+    background-color: #20232a;
+    padding: 7% 10%;
+}
+
+.fMenuTitle {
+    text-align: center;
+    font-size: 26px;
+    color: white;
+}
+.fIcon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    color: white;
+    cursor: pointer;
+   
+}
+
+.copyright {
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    position: relative;
+    top: 50px;
+    right: 0px;
+}
+
+ @media(Max-width:1028px) {
+    #title{
+  
+      text-align: center;
+    }
+}
